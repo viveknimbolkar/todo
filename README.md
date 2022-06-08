@@ -17,3 +17,4 @@ Open the terminal and hit the following command:
 ```bash
    npm run start
 ```  
+<img src="https://github.com/viveknimbolkar/todo/blob/main/assets/todo.jpg" width="300">
